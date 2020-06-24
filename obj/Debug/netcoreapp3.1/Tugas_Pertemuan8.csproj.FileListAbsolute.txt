@@ -1,0 +1,13 @@
+C:\Users\odi setiadi\source\repos\Tugas_Pertemuan8\Tugas_Pertemuan8\obj\Debug\netcoreapp3.1\Tugas_Pertemuan8.csprojAssemblyReference.cache
+C:\Users\odi setiadi\source\repos\Tugas_Pertemuan8\Tugas_Pertemuan8\obj\Debug\netcoreapp3.1\Tugas_Pertemuan8.csproj.CoreCompileInputs.cache
+C:\Users\odi setiadi\source\repos\Tugas_Pertemuan8\Tugas_Pertemuan8\obj\Debug\netcoreapp3.1\Tugas_Pertemuan8.AssemblyInfoInputs.cache
+C:\Users\odi setiadi\source\repos\Tugas_Pertemuan8\Tugas_Pertemuan8\obj\Debug\netcoreapp3.1\Tugas_Pertemuan8.AssemblyInfo.cs
+C:\Users\odi setiadi\source\repos\Tugas_Pertemuan8\Tugas_Pertemuan8\bin\Debug\netcoreapp3.1\Tugas_Pertemuan8.exe
+C:\Users\odi setiadi\source\repos\Tugas_Pertemuan8\Tugas_Pertemuan8\bin\Debug\netcoreapp3.1\Tugas_Pertemuan8.deps.json
+C:\Users\odi setiadi\source\repos\Tugas_Pertemuan8\Tugas_Pertemuan8\bin\Debug\netcoreapp3.1\Tugas_Pertemuan8.runtimeconfig.json
+C:\Users\odi setiadi\source\repos\Tugas_Pertemuan8\Tugas_Pertemuan8\bin\Debug\netcoreapp3.1\Tugas_Pertemuan8.runtimeconfig.dev.json
+C:\Users\odi setiadi\source\repos\Tugas_Pertemuan8\Tugas_Pertemuan8\bin\Debug\netcoreapp3.1\Tugas_Pertemuan8.dll
+C:\Users\odi setiadi\source\repos\Tugas_Pertemuan8\Tugas_Pertemuan8\bin\Debug\netcoreapp3.1\Tugas_Pertemuan8.pdb
+C:\Users\odi setiadi\source\repos\Tugas_Pertemuan8\Tugas_Pertemuan8\obj\Debug\netcoreapp3.1\Tugas_Pertemuan8.dll
+C:\Users\odi setiadi\source\repos\Tugas_Pertemuan8\Tugas_Pertemuan8\obj\Debug\netcoreapp3.1\Tugas_Pertemuan8.pdb
+C:\Users\odi setiadi\source\repos\Tugas_Pertemuan8\Tugas_Pertemuan8\obj\Debug\netcoreapp3.1\Tugas_Pertemuan8.genruntimeconfig.cache
